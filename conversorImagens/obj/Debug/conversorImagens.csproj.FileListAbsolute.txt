@@ -1,0 +1,10 @@
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\bin\Debug\conversorImagens.exe.config
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\bin\Debug\conversorImagens.exe
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\bin\Debug\conversorImagens.pdb
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\obj\Debug\conversorImagens.csprojAssemblyReference.cache
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\obj\Debug\conversorImagens.Form1.resources
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\obj\Debug\conversorImagens.Properties.Resources.resources
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\obj\Debug\conversorImagens.csproj.GenerateResource.cache
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\obj\Debug\conversorImagens.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\obj\Debug\conversorImagens.exe
+C:\Users\thi_s\Desktop\DesenvolvimentoDeSistemas\.Net\windowsForms\conversorImagens\obj\Debug\conversorImagens.pdb

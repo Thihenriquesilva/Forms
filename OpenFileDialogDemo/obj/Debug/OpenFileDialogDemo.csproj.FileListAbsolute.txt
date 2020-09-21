@@ -1,0 +1,10 @@
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\bin\Debug\OpenFileDialogDemo.exe.config
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\bin\Debug\OpenFileDialogDemo.exe
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\bin\Debug\OpenFileDialogDemo.pdb
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.Form1.resources
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.Properties.Resources.resources
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.csproj.GenerateResource.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.exe
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\OpenFileDialogDemo\obj\Debug\OpenFileDialogDemo.pdb

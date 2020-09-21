@@ -1,0 +1,10 @@
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\bin\Debug\testeMatematico.exe.config
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\bin\Debug\testeMatematico.exe
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\bin\Debug\testeMatematico.pdb
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\obj\Debug\testeMatematico.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\obj\Debug\testeMatematico.Form1.resources
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\obj\Debug\testeMatematico.Properties.Resources.resources
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\obj\Debug\testeMatematico.csproj.GenerateResource.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\obj\Debug\testeMatematico.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\obj\Debug\testeMatematico.exe
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\testeMatematico\obj\Debug\testeMatematico.pdb

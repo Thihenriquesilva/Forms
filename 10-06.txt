@@ -1,0 +1,40 @@
+Regex
+ Bem parecido com data annotation do Asp.Net
+
+verificação de email
+
+[a-z]{3,}[.][a-z]{3,}[@][a-z]{3,}[.][a-z]{2,3}
+
+
+verificação de placa de carro
+
+[0-9]{3}-[A-Z]{4}
+
+
+acho que é nome 
+
+[A-Z]{1}[a-z]{2,}
+
+
+Asp.Net e Xamarin - dia 19/06
+
+
+
+*************************************************************
+Pessoal
+Descubra suas 
+*Qualidades //*Fraquezas
+*Capacidades // *Ambições
+*Meus principios
+
+Quesito profissional
+*Habilidades //Competências
+
+
+Qualidade 
+
+
+**********
+Caracteristicas interessantes
+determinação, foco, paciências, vontade, autodidatismo
+	entender quem eu sou, oque eu quero e como chego lá

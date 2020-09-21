@@ -1,0 +1,21 @@
+Hoje - 10/06
+
+
+q-Criar uma nova tela forms *Formulario principal*
+	-Propriedades altere a opção 'IsMDIContainer pra TRUE';
+	ferramentas 'Menustrip'
+	-Adicionar Cadastro/Usuario, Sobre, Sair;
+q-Adicionar outro forms
+	Adicionar um forms ListadeUsuario;
+	adicionar GridViewer;
+	codigo para mostrar na tela de usuario
+q- Adicionar outro forms 'Sobre'
+	mudar as propriedades text, alinhar ao centro, remover os botões de controle, background color white, border fixed single
+	mostrar tela datagridmodal
+q- Adicionar sair pelo botao sair e fechar
+
+mostra borda em todos os botoes que receber foco
+	evento quando entrar e sair
+	evento Enter
+	evento Sair
+sbq-Apresentou atalhos	

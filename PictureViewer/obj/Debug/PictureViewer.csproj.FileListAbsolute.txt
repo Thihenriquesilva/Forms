@@ -1,0 +1,10 @@
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\thi_s\OneDrive\Documentos\Desenvolvimento de Sistemas\.Net\windowsForms\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
